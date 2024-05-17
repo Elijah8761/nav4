@@ -76,3 +76,20 @@ header {
     color: blue;
     text-decoration: none;
 }
+.hero-section {
+    text-align: center;
+}
+.tom {
+    position: relative;
+    top: -249px;
+    left: 340px;
+}
+.jerry {
+    /* position: absolute; */
+}
+.video {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 55%;
+}
